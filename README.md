@@ -1,6 +1,6 @@
 # Website Scraper & Analyzer (Python)
 
-## 📌 Project Description_
+## 📌 Project Description
 
 This project is a **Python-based Web Scraping and Analysis Tool** designed to automatically search, scrape, and analyze website content based on a given keyword query. The project supports two operational modes:
 
